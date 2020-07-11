@@ -1,0 +1,23 @@
+{
+  "mutableParametersState": {
+    "permissions": {
+      "auth": {
+        "ecommerceapp08cda0c5": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      },
+      "storage": {
+        "producttable": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    }
+  },
+  "lambdaLayers": []
+}

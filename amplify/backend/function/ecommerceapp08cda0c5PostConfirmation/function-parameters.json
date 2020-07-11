@@ -1,0 +1,16 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "ecommerceapp08cda0c5",
+  "functionName": "ecommerceapp08cda0c5PostConfirmation",
+  "resourceName": "ecommerceapp08cda0c5PostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\Users\\ForgottenWreaker\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\utils/../triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "roleName": "ecommerceapp08cda0c5PostConfirmation",
+  "skipEdit": true,
+  "GROUP": "Admin"
+}
